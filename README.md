@@ -132,6 +132,7 @@ I’m passionate about cloud, DevOps, and building scalable solutions. Always op
 ---
 
 ### 📧 **Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dushyanthbandaru/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dushf12)
 
 
 ---
@@ -140,4 +141,4 @@ I’m passionate about cloud, DevOps, and building scalable solutions. Always op
 
 If you’re a recruiter or fellow tech enthusiast, feel free to reach out for collaboration, opportunities, or just to talk tech!
 
-![Follow Me](https://imgur.com/2j7GSPs.png)
+
